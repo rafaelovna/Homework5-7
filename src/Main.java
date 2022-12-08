@@ -7,7 +7,7 @@ public class Main {
     public static void task5() {
             System.out.println("Задача 5");
         for (int i = 1904; i <= 2096; i = i + 4)
-            System.out.println(i+ " год является високосным");
+            System.out.println(i+" год является високосным");
     }
     public static void task6() {
         System.out.println("Задача 6");
